@@ -30,6 +30,7 @@ metadata:
   labels:
     app: rollout-nginx
     bluegreen: blue
+    test: 1234
 spec:
   type: LoadBalancer
   ports:
