@@ -39,3 +39,4 @@ spec:
   selector:
     app: rollout-nginx
     bluegreen: blue
+    test: 1234
